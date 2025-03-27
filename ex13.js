@@ -1,5 +1,6 @@
 
 function genererDescriptions(personnes) {
+
 }
 
 console.log(

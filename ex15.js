@@ -1,5 +1,5 @@
 function filtrerProduitsEnPromo(produits) {
-	return produits.filter(produits > produits.promo)
+	return produits.filter(produits => produits.promo)
 }
 
 console.log(
